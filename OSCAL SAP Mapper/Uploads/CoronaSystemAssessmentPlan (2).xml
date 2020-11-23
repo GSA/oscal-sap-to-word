@@ -1,0 +1,858 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assessment-plan uuid="b90ca8aa-2222-4bda-8a59-04d6dd8b91e0" xmlns="http://csrc.nist.gov/ns/oscal/1.0">
+	<metadata>
+		<title>Corona Security Assessment Plan</title>
+		<published>2020-06-01T12:00:00Z</published>
+		<last-modified>2020-06-04T12:00:00Z</last-modified>
+		<version>3.5</version>
+		<oscal-version>1.0-Milestone2.1</oscal-version>
+		<revision-history>
+			<revision>
+				<title>Corona Version 2</title>
+				<published>2020-06-08T12:00:00Z</published>
+				<last-modified>2020-06-10T12:00:00Z</last-modified>
+				<version>3.6</version>
+				<oscal-version>1.0-Milestone3</oscal-version>
+				<prop name="prop" id="prop-role-revision-1-0" ns="fedramp" class="main">Fix stuff</prop>
+				<link href="www.cnn.com" rel="on" media-type="video">do_not_go_there</link>
+				<remarks>
+					<p>This  will end very softly tomorrow.
+Where are we?
+ Do not be late one more time.</p>
+				</remarks>
+			</revision>
+			<revision>
+				<title>Corona SAP first version</title>
+				<published>2020-06-07T12:00:00Z</published>
+				<last-modified>2020-06-15T12:00:00Z</last-modified>
+				<version>3.6</version>
+				<oscal-version>1.0-Milestone3</oscal-version>
+				<prop name="prop" id="prop-revision-0-0" ns="fedramp" class="main">Fix stuff</prop>
+				<prop name="prop" id="prop-revision-0-1" ns="fedrampsouth" class="main">Fix_stuff</prop>
+				<remarks>
+					<p>We are doing this because we have to if not we will be playing now.
+We will do it together, and forever.
+Do it now.
+It is our goal to finish it as soon as possible.
+</p>
+				</remarks>
+			</revision>
+			<revision>
+				<title>Last Revision</title>
+				<published>2020-06-10T12:00:00Z</published>
+				<last-modified>2020-06-13T12:00:00Z</last-modified>
+				<version>3.6</version>
+				<oscal-version>1.0-Milestone 3.1</oscal-version>
+				<prop name="prop" id="prop-revision-2-0" ns="NIST" class="main">Fix stuff</prop>
+				<link href="www.fedramp.gov" rel="on" media-type="video">Regulator</link>
+				<remarks>
+					<p>Last working version of OSCAL.
+     We will not be lazy anymore.</p>
+				</remarks>
+			</revision>
+		</revision-history>
+		<role id="role-approved-by-1">
+			<title>Approved By for SAR</title>
+			<short-name>approved-by</short-name>
+			<desc>The entity that approves the SAP</desc>
+			<prop name="prop" id="role-approved-by-2" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff for the boss when on</prop>
+			<prop name="prop" id="prop-role-approved-by-2" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff no motre</prop>
+			<remarks>
+				<p>This is the person or the entity that approves the SAP</p>
+			</remarks>
+		</role>
+		<role id="role-VITG-ISSO-4">
+			<title>ISSO Deputy</title>
+			<short-name>VITG-ISSO</short-name>
+			<desc>VITG Sec Sys Boss</desc>
+			<remarks>
+				<p>Work very hard</p>
+			</remarks>
+		</role>
+		<role id="role-approved-for-5">
+			<title>Approved For </title>
+			<short-name>approved-for</short-name>
+			<desc>The entity that needs the SAP</desc>
+			<remarks>
+				<p>Do it quick</p>
+			</remarks>
+		</role>
+		<role id="role-SysManager-6">
+			<title>System Manager</title>
+			<short-name>SysManager</short-name>
+			<desc>Fix the system</desc>
+			<remarks>
+				<p>Fix the entire system</p>
+			</remarks>
+		</role>
+		<location uuid="e8460373-e540-44e5-9085-0651992dd701">
+			<address type="Data Center">
+				<addr-line>1400 Pennsylvania Avenue</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>White Marsh</city>
+				<state>CA</state>
+				<postal-code>21162</postal-code>
+				<country>United States</country>
+			</address>
+			<email>badmaik@gmail.com</email>
+			<email>badmaik@work.com</email>
+			<email>badmaik@home.us</email>
+			<phone type="Home Phone">2403284513</phone>
+			<phone type="Office">14437254306</phone>
+			<remarks>
+				<p>Do this again</p>
+			</remarks>
+		</location>
+		<location uuid="151e5178-7158-4e86-bb9c-2c134e9fb7d3">
+			<address type="Main Office">
+				<addr-line>1000 Johnson Bldv</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Baltimore</city>
+				<state>MARYLAND</state>
+				<postal-code>21162</postal-code>
+				<country>United States</country>
+			</address>
+			<email>main@gmail.ogv</email>
+			<prop name="prop" id="prop-location-1-0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff</prop>
+			<remarks>
+				<p>It is there again</p>
+			</remarks>
+		</location>
+		<location uuid="2d00bbdd-f817-431e-b689-d3bf92d2f4a8">
+			<address type="Main Office">
+				<addr-line>1582 Main street</addr-line>
+				<addr-line>Suite 252</addr-line>
+				<city>Baltimore</city>
+				<state>MARYLAND</state>
+				<postal-code>21212</postal-code>
+				<country>United States</country>
+			</address>
+			<email>main@gmail.ogv</email>
+			<email>bademail@gmail.com</email>
+			<prop name="prop" id="prop-location-2-0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff</prop>
+			<link href="www.fedramp.gov" rel="on" media-type="video">Yahoo Front Page</link>
+			<remarks>
+				<p>This is where we are located</p>
+			</remarks>
+		</location>
+		<party uuid="baf2dad2-dbcd-4586-863a-233d44451d35" type="organization">
+			<party-name>Corrona 3POA Assesser</party-name>
+			<short-name>cORROMs</short-name>
+			<external-id type="assesser">extern-01</external-id>
+			<prop name="prop" id="prop-party-1-0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff</prop>
+			<address type="Data Center">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Owings Mills</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<address type="Data_Center">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Owings Mills</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<address type="Data_Center">
+				<addr-line>1400 Pennsylvania Avenue</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>White Marsh</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<email>fed@ramp.gov</email>
+			<email>work@lazy.org</email>
+			<phone type="Office Phone">202 545 5412</phone>
+			<phone type="Home Phone">152 458 6622</phone>
+			<remarks>
+				<p>We are here to stay</p>
+			</remarks>
+		</party>
+		<party uuid="af19ea52-e10f-4a3b-8191-39bcdf71786a" type="organization">
+			<party-name>Amazon Cloud Services</party-name>
+			<short-name>CVTG</short-name>
+			<external-id type="assesser">extern-01</external-id>
+			<prop name="prop" id="prop-party-3-0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff</prop>
+			<address type="Main_Office">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Baltimore</city>
+				<state>Maryland</state>
+				<postal-code>21212</postal-code>
+				<country>USA</country>
+			</address>
+			<email>work@lazy.gov</email>
+			<phone type="Office Phone">652 252 4541</phone>
+			<remarks>
+				<p>Go Home</p>
+			</remarks>
+		</party>
+		<party uuid="a2a0fff2-f4eb-4f9f-ad7b-d770bd11e411" type="person">
+			<party-name>John Doe</party-name>
+			<short-name>CVTG</short-name>
+			<external-id type="CEO">extern-02</external-id>
+			<prop name="prop" id="prop-party-4-0" ns="https://fedramp.gov/ns/oscal" class="main">Always On</prop>
+			<annotation name="annotation" id="ann-party-4-0" ns="https://fedramp.gov/ns/oscal" value="free stuff">
+				<remarks>
+					<p>Every Day</p>
+				</remarks>
+			</annotation>
+			<address type="Main Office">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Baltimore</city>
+				<state>Maryland</state>
+				<postal-code>21212</postal-code>
+				<country>USA</country>
+			</address>
+			<email>john@doe.person</email>
+			<phone type="Home Phone">202 545 5412</phone>
+			<remarks>
+				<p>Where are we?</p>
+			</remarks>
+		</party>
+		<party uuid="301bab62-e558-4046-987b-d6ba3c2bce5c" type="person">
+			<party-name>Anna Martha Done</party-name>
+			<short-name>Anna</short-name>
+			<external-id type="CFO">extern-03</external-id>
+			<address type="Private Office">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Raleigh</city>
+				<state>NC</state>
+				<postal-code>524110</postal-code>
+				<country>USA</country>
+			</address>
+			<email>anna@mail.gone</email>
+			<phone type="Home Phone">202 545 5412</phone>
+			<remarks>
+				<p>This again?</p>
+			</remarks>
+		</party>
+		<party uuid="ac8c7dd5-bfb7-4a0e-bbbb-1378c21bb524" type="organization">
+			<party-name>Corrona 3POA Assesser</party-name>
+			<short-name>WLBC</short-name>
+			<external-id type="assesser">extern-01</external-id>
+			<prop name="prop" id="prop-party-2-1" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff</prop>
+			<prop name="prop" id="prop-party-2-0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff for the boss</prop>
+			<annotation name="annotation" id="ann-party-2-0" ns="https://fedramp.gov/ns/oscal" value="good">
+				<remarks>
+					<p>We are here</p>
+				</remarks>
+			</annotation>
+			<address type="Data_Center">
+				<addr-line>1400 Pennsylvania Avenue</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>White Marsh</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<remarks>
+				<p>Very Good Organization</p>
+			</remarks>
+		</party>
+		<party uuid="e16166ee-adb3-458d-9d19-14bf7e9c4e44" type="organization">
+			<party-name>Fedramp Bureau</party-name>
+			<short-name>FedRamp</short-name>
+			<external-id type="Regulators">Intern-gOv</external-id>
+			<address type="Private Office">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Raleigh</city>
+				<state>NC</state>
+				<postal-code>524110</postal-code>
+				<country>USA</country>
+			</address>
+			<email>fed@ramp.gov</email>
+			<phone type="Home Phone">202 545 5412</phone>
+			<remarks>
+				<p>What???</p>
+			</remarks>
+		</party>
+		<party uuid="aeb9f120-8e10-4343-b66b-46e8cb5c868a" type="organization">
+			<party-name>Fedramp 3POA Assesser</party-name>
+			<short-name>KKS</short-name>
+			<external-id type="assesser">extern-01</external-id>
+			<prop name="prop" id="prop-party-7-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<address type="Private Office">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Raleigh</city>
+				<state>NC</state>
+				<postal-code>524110</postal-code>
+				<country>USA</country>
+			</address>
+			<email>fed@ramp.gov</email>
+			<phone type="Office Phone">202 545 5412</phone>
+			<remarks>
+				<p>Inside the market</p>
+			</remarks>
+		</party>
+		<party uuid="2ece4f21-e065-432c-ade2-b648cfa8c518" type="organization">
+			<party-name>Volpe Info Tech Group</party-name>
+			<short-name>EBD</short-name>
+			<external-id type="Tech">Contractor-2511225</external-id>
+			<address type="Data Center">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Owings Mills</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<email>vitg@volpe.com</email>
+			<phone type="Office Phone">202 545 5412</phone>
+			<remarks>
+				<p />
+			</remarks>
+		</party>
+		<party uuid="ed7bfdee-bb1b-498e-a4f7-6099055f813a" type="organization">
+			<party-name>Mac Cloud Science Inspector</party-name>
+			<short-name>MCSI</short-name>
+			<external-id type="Tech">Intern-gOv</external-id>
+			<prop name="prop" id="prop-party-9-0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff</prop>
+			<address type="Data Center">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Owings Mills</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<email>mac@apple.money</email>
+			<phone type="Office Phone">202 545 5412</phone>
+			<remarks>
+				<p>Do you have that Solution?</p>
+			</remarks>
+		</party>
+		<party uuid="15fe9ba0-38ba-4ba1-ad1d-41341e941311" type="organization">
+			<party-name>Fedramp Bureau New York Data Center</party-name>
+			<short-name>WIP</short-name>
+			<external-id type="Regulators">Intern-gOv</external-id>
+			<address type="Data Center">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Owings Mills</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<address type="Data_Center">
+				<addr-line>45 West East street</addr-line>
+				<addr-line>Suite 200</addr-line>
+				<city>Owings Mills</city>
+				<state>MD</state>
+				<postal-code>21162</postal-code>
+				<country>USA</country>
+			</address>
+			<email>fed@ramp.gov</email>
+			<phone type="Office Phone">202 545 5412</phone>
+			<remarks>
+				<p>Real and abstract</p>
+			</remarks>
+		</party>
+		<responsible-party role-id="responsible-party-1">
+			<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+			<remarks>
+				<p>Go  home</p>
+			</remarks>
+		</responsible-party>
+		<responsible-party role-id="responsible-party-2">
+			<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+			<remarks>
+				<p>We are here</p>
+			</remarks>
+		</responsible-party>
+		<responsible-party role-id="responsible-party-3">
+			<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+			<remarks>
+				<p>We are here to go</p>
+			</remarks>
+		</responsible-party>
+		<responsible-party role-id="responsible-party-4">
+			<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+			<remarks>
+				<p>You are alone, work very hard</p>
+			</remarks>
+		</responsible-party>
+	</metadata>
+	<import-ssp href="www.nist.gov">
+		<remarks>
+			<p>We are out</p>
+		</remarks>
+	</import-ssp>
+	<objectives>
+		<description>
+			<p>This is the objective description </p>
+		</description>
+		<prop name="prop" id="prop--0" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff for the boss</prop>
+		<prop name="prop" id="prop--1" ns="https://fedramp.gov/ns/oscal" class="main">Yahoo Front Page</prop>
+		<prop name="prop" id="prop--2" ns="https://fedramp.gov/ns/oscal" class="main">Fix stuff for the boss when on</prop>
+		<annotation name="annotation" id="ann--1" ns="https://fedramp.gov/ns/oscal" value="Fix stuff ">
+			<remarks>
+				<p>Where are you</p>
+			</remarks>
+		</annotation>
+		<annotation name="annotation" id="ann--0" ns="https://fedramp.gov/ns/oscal" value="Fix stuff ">
+			<remarks>
+				<p>We did it again</p>
+			</remarks>
+		</annotation>
+		<controls>
+			<description>
+				<p>All controls should be added</p>
+			</description>
+			<prop name="prop" id="prop--0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<prop name="prop" id="prop--1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<annotation name="ann" id="ann--0" ns="fedramp" value="Fix stuff for the boss when on">
+				<remarks>
+					<p>where is the gold</p>
+				</remarks>
+			</annotation>
+			<all>All high baseline controls</all>
+			<include-control control-id="ac-2" />
+			<include-control control-id="ac-2.1" />
+			<include-control control-id="ac-2.2" />
+			<include-control control-id="ac-2.3" />
+			<include-control control-id="ac-6.2" />
+			<include-control control-id="ac-6.5" />
+			<exclude-control control-id="ac-3" />
+			<exclude-control control-id="ac-4" />
+			<exclude-control control-id="ac-5" />
+		</controls>
+		<control-objectives>
+			<description>
+				<p>Handle all controls </p>
+			</description>
+			<prop name="prop" id="prop--0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<prop name="prop" id="prop--1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<annotation name="annotation" id="ann--0" ns="https://fedramp.gov/ns/oscal" value="Fix stuff">
+				<remarks>
+					<p>Where to go</p>
+				</remarks>
+			</annotation>
+			<all>All high baseline controls</all>
+			<include-objective objective-id="include-objective"> ac-1 : Don't complete this control</include-objective>
+			<include-objective objective-id=" ir-4">Reverse Engendering</include-objective>
+			<include-objective objective-id=" ac-8req.">Look this up online</include-objective>
+			<exclude-objective objective-id=" ac-6.9"></exclude-objective>
+			<exclude-objective objective-id=" ac-6">Don't complete this control</exclude-objective>
+			<exclude-objective objective-id=" at-2">Automate everything </exclude-objective>
+			<exclude-objective objective-id=" ca-6">California Dreaming Controls</exclude-objective>
+		</control-objectives>
+	</objectives>
+	<assessment-subjects>
+		<include-subject name="Component" class="Nist">
+			<description>
+				<p>Do</p>
+			</description>
+			<all>All high baseline controls</all>
+			<remarks>
+				<p>Don't</p>
+			</remarks>
+		</include-subject>
+		<include-subject name="Elements" class="Nist">
+			<description>
+				<p>Do it again</p>
+			</description>
+			<all>All low baseline controls</all>
+			<remarks>
+				<p>Don't do it </p>
+			</remarks>
+		</include-subject>
+		<include-subject name="Spyware" class="Fedramp">
+			<description>
+				<p>Bad stuffs not working now</p>
+			</description>
+			<all>All high baseline controls</all>
+			<remarks>
+				<p>Update frequenly</p>
+			</remarks>
+		</include-subject>
+		<include-subject name="Servers" class="Nist">
+			<description>
+				<p>We are working on it</p>
+			</description>
+			<all>All low baseline controls</all>
+			<remarks>
+				<p>Finishing soon</p>
+			</remarks>
+		</include-subject>
+		<exclude-subject name="Logic" class="Nist">
+			<description>
+				<p>Where</p>
+			</description>
+			<all>All high baseline controls</all>
+			<remarks>
+				<p>Here and There</p>
+			</remarks>
+		</exclude-subject>
+		<exclude-subject name="Softwares" class="Nist">
+			<description>
+				<p>We are we</p>
+			</description>
+			<all>All high baseline controls</all>
+			<remarks>
+				<p>Here again</p>
+			</remarks>
+		</exclude-subject>
+		<exclude-subject name="Component" class="Fedramp">
+			<description>
+				<p>Where</p>
+			</description>
+			<all>All high baseline controls</all>
+			<remarks>
+				<p>Here</p>
+			</remarks>
+		</exclude-subject>
+		<local-definitions>
+			<component uuid="6eef84bb-f0f7-476e-9d4b-24a720f335f6" component-type="Servers">
+				<title>Main Servers</title>
+				<description>
+					<p>Run on Linus</p>
+				</description>
+				<prop name="prop" id="prop-component-2-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<prop name="prop" id="prop-component-2-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<link href="www.yahoo.com" rel="on" media-type="video">Fix stuff</link>
+				<status state="under-development">
+					<remarks>
+						<p>Not working well</p>
+					</remarks>
+				</status>
+				<responsible-role role-id="responsible-party-1">
+					<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+					<remarks>
+						<p>Go  home</p>
+					</remarks>
+				</responsible-role>
+				<remarks>
+					<p>Why</p>
+				</remarks>
+			</component>
+			<component uuid="c898118a-c4aa-4c69-9d05-ba521bc25cd2" component-type="Computers">
+				<title>System Computers</title>
+				<description>
+					<p>Always ON</p>
+				</description>
+				<prop name="prop" id="prop-Computers-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<prop name="prop" id="prop-Computers-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="annotation" id="ann-Computers-0" ns="https://fedramp.gov/ns/oscal" value="bad">
+					<remarks>
+						<p>We are here</p>
+					</remarks>
+				</annotation>
+				<link href="www.yahoo.com" rel="wed" media-type="">good</link>
+				<status state="operational">
+					<remarks>
+						<p>Always Working</p>
+					</remarks>
+				</status>
+				<responsible-role role-id="responsible-party-1">
+					<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+					<remarks>
+						<p>Go  home</p>
+					</remarks>
+				</responsible-role>
+				<remarks>
+					<p>ON</p>
+				</remarks>
+			</component>
+			<component uuid="9f057591-5006-483c-beec-d6659cdb9d38" component-type="ISSO Servers ">
+				<title>Web Servers</title>
+				<description>
+					<p>Run on SeLinux</p>
+				</description>
+				<status state="under-major-modification">
+					<remarks>
+						<p>Great Value</p>
+					</remarks>
+				</status>
+				<responsible-role role-id="responsible-party-2">
+					<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+					<remarks>
+						<p>We are here</p>
+					</remarks>
+				</responsible-role>
+				<remarks>
+					<p>Very Good</p>
+				</remarks>
+			</component>
+			<component uuid="468903ee-c34e-4137-a5a1-4d5c693aff2d" component-type="Software">
+				<title>System Computers</title>
+				<description>
+					<p>Run  Main  Logic</p>
+				</description>
+				<prop name="prop" id="prop-component-0-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<prop name="prop" id="prop-component-0-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="ann" id="ann-component-0-0" ns="https://fedramp.gov/ns/oscal" value="Fix stuff">
+					<remarks>
+						<p>Do it</p>
+					</remarks>
+				</annotation>
+				<link href="www.yahoo.com" rel="video" media-type="">good</link>
+				<status state="under-development">
+					<remarks>
+						<p>3 times a day</p>
+					</remarks>
+				</status>
+				<remarks>
+					<p />
+				</remarks>
+			</component>
+			<inventory-item uuid="ec20a750-d630-4248-a087-6740ee87f0f4" asset-id="Software">
+				<description>
+					<p>Code in C</p>
+				</description>
+				<prop name="prop" id="prop-inventoryItem-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<responsible-party role-id="responsible-party-1">
+					<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+					<remarks>
+						<p>Go  home</p>
+					</remarks>
+				</responsible-party>
+				<implemented-component component-id="bcb4c996-0e41-4420-82fb-31e4edfbe03c" use="Software for Dance">
+					<annotation name="ann" id="ann-implementedcomponent-3-0" ns="fedramp" value="Fix stuff">
+						<remarks>
+							<p>Were are they?</p>
+						</remarks>
+					</annotation>
+					<link href="www.yahoo.com" rel="video" media-type="good">bad</link>
+					<link href="first Property" rel="on" media-type="video">Fix stuff</link>
+					<responsible-party role-id="responsible-party-1">
+						<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+						<remarks>
+							<p>Go  home</p>
+						</remarks>
+					</responsible-party>
+					<remarks>
+						<p>Help Dancers</p>
+					</remarks>
+				</implemented-component>
+			</inventory-item>
+			<inventory-item uuid="4e795261-ced3-4702-9bd6-77bea852d36b" asset-id="Developers">
+				<description>
+					<p>Write Code in C</p>
+				</description>
+			</inventory-item>
+			<inventory-item uuid="bf67841c-0b0c-46d5-bb25-ad50db5c00a6" asset-id="Developers with Experience">
+				<description>
+					<p>Write Code in C</p>
+				</description>
+				<responsible-party role-id="responsible-party-2">
+					<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+					<remarks>
+						<p>We are here</p>
+					</remarks>
+				</responsible-party>
+				<implemented-component component-id="bcb4c996-0e41-4420-82fb-31e4edfbe03c" use="Software for Dance">
+					<annotation name="ann" id="ann-implementedcomponent-3-0" ns="fedramp" value="Fix stuff">
+						<remarks>
+							<p>Were are they?</p>
+						</remarks>
+					</annotation>
+					<link href="www.yahoo.com" rel="video" media-type="good">bad</link>
+					<link href="first Property" rel="on" media-type="video">Fix stuff</link>
+					<responsible-party role-id="responsible-party-1">
+						<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+						<remarks>
+							<p>Go  home</p>
+						</remarks>
+					</responsible-party>
+					<remarks>
+						<p>Help Dancers</p>
+					</remarks>
+				</implemented-component>
+			</inventory-item>
+			<inventory-item uuid="496d8a87-b490-461e-94f1-df5b0f5427f9" asset-id="Computers">
+				<description>
+					<p>Web farm  of VM Computers</p>
+				</description>
+				<prop name="prop" id="prop-inventoryItem-0-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="ann" id="ann-inventoryItem-0-0" ns="fedramp-south" value="Working fine">
+					<remarks>
+						<p>Well and great</p>
+					</remarks>
+				</annotation>
+				<link href="www.nist.gov" rel="on" media-type="video">Docs</link>
+				<responsible-party role-id="responsible-party-1">
+					<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+					<remarks>
+						<p>Go  home</p>
+					</remarks>
+				</responsible-party>
+				<implemented-component component-id="6eee3f9f-9b41-4b88-80d2-c12ed6e80f64" use="Spywarw">
+					<prop name="prop" id="prop-implementedcomponent-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+					<annotation name="ann" id="ann-implementedcomponent-1-0" ns="fedramp" value="Fix stuff">
+						<remarks>
+							<p>We are here</p>
+						</remarks>
+					</annotation>
+					<link href="www.nist.gov" rel="on" media-type="video">where we have docs</link>
+					<link href="www.fedramp.com" rel="on" media-type="video">Fix stuff for the boss</link>
+					<responsible-party role-id="responsible-party-2">
+						<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+						<remarks>
+							<p>We are here</p>
+						</remarks>
+					</responsible-party>
+					<remarks>
+						<p>Accounting Software</p>
+					</remarks>
+				</implemented-component>
+			</inventory-item>
+			<user uuid="fa1c4a25-2b96-4b58-8716-41531ec102f6">
+				<title>System Managers</title>
+				<short-name>Sys Man</short-name>
+				<description>
+					<p>Control everything</p>
+				</description>
+				<prop name="prop" id="prop-user-2-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="ann" id="ann-user-2-0" ns="fedramp" value="Fix stuff for the boss">
+					<remarks>
+						<p>Where</p>
+					</remarks>
+				</annotation>
+				<role-id>role-approved-by-1</role-id>
+				<authorized-privilege>
+					<title>System Owner deputy</title>
+					<description>
+						<p>Go everywhere</p>
+					</description>
+					<function-performed>Fix stuff</function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title>System Owner deputy</title>
+					<description>
+						<p>Go everywhere</p>
+					</description>
+					<function-performed>Fix stuff</function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title>System Owner deputy</title>
+					<description>
+						<p>Go everywhere</p>
+					</description>
+					<function-performed>Fix stuff</function-performed>
+				</authorized-privilege>
+				<remarks>
+					<p />
+				</remarks>
+			</user>
+			<user uuid="5c05313b-c6a8-4223-8d6b-bb73fb546fe1">
+				<title>The Owner of the Company</title>
+				<short-name>CEO</short-name>
+				<description>
+					<p>The Person the buisness</p>
+				</description>
+				<prop name="prop" id="prop-user-0-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<role-id>role-approved-by-1</role-id>
+				<role-id>role-approved-for-5</role-id>
+				<authorized-privilege>
+					<title>System admin</title>
+					<description>
+						<p>set up servers and machines</p>
+					</description>
+					<function-performed>configures accounts</function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title>System admin</title>
+					<description>
+						<p>set up servers and machines</p>
+					</description>
+					<function-performed>configures accounts</function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title>System admin</title>
+					<description>
+						<p>set up servers and machines</p>
+					</description>
+					<function-performed>configures accounts</function-performed>
+				</authorized-privilege>
+				<remarks>
+					<p>The Big Boss</p>
+				</remarks>
+			</user>
+			<user uuid="b97a6159-d3b4-4e18-8f6b-d1ada7c3f51c">
+				<title>Security Owner</title>
+				<short-name>VITG ISSO</short-name>
+				<description>
+					<p>Check  everyone security</p>
+				</description>
+				<prop name="prop" id="prop-user-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<role-id>role-approved-by-1</role-id>
+				<authorized-privilege>
+					<title>Account Owners</title>
+					<description>
+						<p>Own accounts</p>
+					</description>
+					<function-performed>Create and delete accounts</function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title>Account Owners</title>
+					<description>
+						<p>Own accounts</p>
+					</description>
+					<function-performed>Create and delete accounts</function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title>Account Owners</title>
+					<description>
+						<p>Own accounts</p>
+					</description>
+					<function-performed>Create and delete accounts</function-performed>
+				</authorized-privilege>
+				<remarks>
+					<p>On</p>
+				</remarks>
+			</user>
+			<remarks>
+				<p>We are ready</p>
+			</remarks>
+		</local-definitions>
+	</assessment-subjects>
+	<assets>
+		<tools>
+			<component uuid="535d641b-5d46-4dbe-baf7-02605fefd7f9" component-type="Software">
+				<title>System Servers</title>
+				<description>
+					<p>Run Windows</p>
+				</description>
+				<status state="operational">
+					<remarks>
+						<p>Always Working</p>
+					</remarks>
+				</status>
+				<remarks>
+					<p>Very good
+</p>
+				</remarks>
+			</component>
+			<component uuid="a0ab7cc3-80ae-4c86-a492-56a190343800" component-type="Software">
+				<title>Spyware</title>
+				<description>
+					<p>Spy on people</p>
+				</description>
+				<status state="operational">
+					<remarks>
+						<p>Very good</p>
+					</remarks>
+				</status>
+				<remarks>
+					<p />
+				</remarks>
+			</component>
+		</tools>
+		<origination>
+			<title>Approved By</title>
+			<description>
+				<p>CSP Company that owns the DOC</p>
+			</description>
+		</origination>
+	</assets>
+	<back-matter />
+</assessment-plan>

@@ -1,0 +1,257 @@
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\OSCAL SAP Mapper.dll.config
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\OSCAL SAP Mapper.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\OSCAL SAP Mapper.pdb
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Antlr3.Runtime.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\DocumentFormat.OpenXml.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Options.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Newtonsoft.Json.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\OSCALHelperClasses.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Buffers.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Collections.Immutable.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.ComponentModel.Annotations.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.IO.Packaging.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Memory.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Numerics.Vectors.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Web.Optimization.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\WebGrease.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\SqlDataProvider.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\DocumentFormat.OpenXml.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Options.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Buffers.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Collections.Immutable.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.IO.Packaging.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Memory.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Numerics.Vectors.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\System.Web.Optimization.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Newtonsoft.Json.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Antlr3.Runtime.pdb
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.csprojAssemblyReference.cache
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.csproj.CopyComplete
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.pdb
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\csc.exe
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\csc.exe.config
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\csc.rsp
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\csi.exe
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\csi.exe.config
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\csi.rsp
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.AppContext.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Console.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Net.Http.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\vbc.exe
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\vbc.exe.config
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\vbc.rsp
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fareed Ahmed\Desktop\SAP Fixed\OSCAL SAP Mapper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\OSCAL SAP Mapper.dll.config
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\OSCAL SAP Mapper.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\OSCAL SAP Mapper.pdb
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\csc.exe
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\csc.exe.config
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\csc.rsp
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\csi.exe
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\csi.exe.config
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\csi.rsp
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.AppContext.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Console.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.IO.Compression.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Net.Http.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.ValueTuple.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\vbc.exe
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\vbc.exe.config
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\vbc.rsp
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\VBCSCompiler.exe
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Antlr3.Runtime.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\DocumentFormat.OpenXml.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Options.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Newtonsoft.Json.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\OSCALHelperClasses.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Buffers.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Collections.Immutable.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.ComponentModel.Annotations.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.IO.Packaging.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Memory.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Numerics.Vectors.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Web.Optimization.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\WebGrease.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\SqlDataProvider.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\DocumentFormat.OpenXml.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Options.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Buffers.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Collections.Immutable.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.IO.Packaging.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Memory.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Numerics.Vectors.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\System.Web.Optimization.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Newtonsoft.Json.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Antlr3.Runtime.pdb
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.csprojAssemblyReference.cache
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.csproj.CopyComplete
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.dll
+C:\Users\MoustaphaPemy\Documents\GSAGitHubRelease\OSCALSAPMapper\SAP Mapper\OSCAL SAP Mapper\obj\Debug\OSCAL SAP Mapper.pdb

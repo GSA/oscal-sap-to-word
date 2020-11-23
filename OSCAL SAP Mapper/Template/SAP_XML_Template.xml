@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assessment-plan uuid="b90ca8aa-2222-4bda-8a59-04d6dd8b91e0" xmlns="http://csrc.nist.gov/ns/oscal/1.0">
+	<metadata>
+		<title></title>
+		<published></published>
+		<last-modified></last-modified>
+		<version></version>
+		<oscal-version></oscal-version>
+		<revision-history>
+			<revision>
+				<title></title>
+				<published></published>
+				<last-modified></last-modified>
+				<version></version>
+				<oscal-version></oscal-version>
+				<prop name="prop" id="prop-role-revision-1-0" ns="fedramp" class="main"></prop>
+				<link href="www.cnn.com" rel="on" media-type="video"></link>
+				<remarks>
+					<p></p>
+				</remarks>
+			</revision>
+			<revision>
+				<title></title>
+				<published></published>
+				<last-modified></last-modified>
+				<version></version>
+				<oscal-version></oscal-version>
+				<prop name="prop" id="prop-revision-0-0" ns="fedramp" class="main"></prop>
+				<prop name="prop" id="prop-revision-0-1" ns="fedrampsouth" class="main"></prop>
+				<remarks>
+					<p>
+</p>
+				</remarks>
+			</revision>
+			<revision>
+				<title></title>
+				<published></published>
+				<last-modified></last-modified>
+				<version></version>
+				<oscal-version></oscal-version>
+				<prop name="prop" id="prop-revision-2-0" ns="NIST" class="main"></prop>
+				<link href="www.fedramp.gov" rel="on" media-type="video"></link>
+				<remarks>
+					<p></p>
+				</remarks>
+			</revision>
+		</revision-history>
+		<role id="role-approved-by-1">
+			<title></title>
+			<short-name></short-name>
+			<desc></desc>
+			<prop name="prop" id="role-approved-by-2" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<prop name="prop" id="prop-role-approved-by-2" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<remarks>
+				<p></p>
+			</remarks>
+		</role>
+		<role id="role-VITG-ISSO-4">
+			<title></title>
+			<short-name></short-name>
+			<desc></desc>
+			<remarks>
+				<p></p>
+			</remarks>
+		</role>
+		<role id="role-approved-for-5">
+			<title></title>
+			<short-name></short-name>
+			<desc></desc>
+			<remarks>
+				<p></p>
+			</remarks>
+		</role>
+		<role id="role-SysManager-6">
+			<title></title>
+			<short-name></short-name>
+			<desc></desc>
+			<remarks>
+				<p></p>
+			</remarks>
+		</role>
+		<location uuid="e8460373-e540-44e5-9085-0651992dd701">
+			<address type="Data Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<email></email>
+			<email></email>
+			<phone type="Home Phone"></phone>
+			<phone type="Office"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</location>
+		<location uuid="151e5178-7158-4e86-bb9c-2c134e9fb7d3">
+			<address type="Main Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<prop name="prop" id="prop-location-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<remarks>
+				<p></p>
+			</remarks>
+		</location>
+		<location uuid="2d00bbdd-f817-431e-b689-d3bf92d2f4a8">
+			<address type="Main Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<email></email>
+			<prop name="prop" id="prop-location-2-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<link href="www.fedramp.gov" rel="on" media-type="video"></link>
+			<remarks>
+				<p></p>
+			</remarks>
+		</location>
+		<party uuid="baf2dad2-dbcd-4586-863a-233d44451d35" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="assesser"></external-id>
+			<prop name="prop" id="prop-party-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<address type="Data Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<address type="Data_Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<address type="Data_Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<email></email>
+			<phone type="Office Phone"></phone>
+			<phone type="Home Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="af19ea52-e10f-4a3b-8191-39bcdf71786a" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="assesser"></external-id>
+			<prop name="prop" id="prop-party-3-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<address type="Main_Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Office Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="a2a0fff2-f4eb-4f9f-ad7b-d770bd11e411" type="person">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="CEO"></external-id>
+			<prop name="prop" id="prop-party-4-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<annotation name="annotation" id="ann-party-4-0" ns="https://fedramp.gov/ns/oscal" value="free stuff">
+				<remarks>
+					<p></p>
+				</remarks>
+			</annotation>
+			<address type="Main Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Home Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="301bab62-e558-4046-987b-d6ba3c2bce5c" type="person">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="CFO"></external-id>
+			<address type="Private Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Home Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="ac8c7dd5-bfb7-4a0e-bbbb-1378c21bb524" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="assesser"></external-id>
+			<prop name="prop" id="prop-party-2-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<prop name="prop" id="prop-party-2-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<annotation name="annotation" id="ann-party-2-0" ns="https://fedramp.gov/ns/oscal" value="good">
+				<remarks>
+					<p></p>
+				</remarks>
+			</annotation>
+			<address type="Data_Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="e16166ee-adb3-458d-9d19-14bf7e9c4e44" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="Regulators"></external-id>
+			<address type="Private Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Home Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="aeb9f120-8e10-4343-b66b-46e8cb5c868a" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="assesser"></external-id>
+			<prop name="prop" id="prop-party-7-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<address type="Private Office">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Office Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="2ece4f21-e065-432c-ade2-b648cfa8c518" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="Tech"></external-id>
+			<address type="Data Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Office Phone"></phone>
+			<remarks>
+				<p />
+			</remarks>
+		</party>
+		<party uuid="ed7bfdee-bb1b-498e-a4f7-6099055f813a" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="Tech"></external-id>
+			<prop name="prop" id="prop-party-9-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<address type="Data Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Office Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<party uuid="15fe9ba0-38ba-4ba1-ad1d-41341e941311" type="organization">
+			<party-name></party-name>
+			<short-name></short-name>
+			<external-id type="Regulators"></external-id>
+			<address type="Data Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<address type="Data_Center">
+				<addr-line></addr-line>
+				<addr-line></addr-line>
+				<city></city>
+				<state></state>
+				<postal-code></postal-code>
+				<country></country>
+			</address>
+			<email></email>
+			<phone type="Office Phone"></phone>
+			<remarks>
+				<p></p>
+			</remarks>
+		</party>
+		<responsible-party role-id="responsible-party-1">
+			<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+			<remarks>
+				<p>Go  home</p>
+			</remarks>
+		</responsible-party>
+		<responsible-party role-id="responsible-party-2">
+			<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+			<remarks>
+				<p>We are here</p>
+			</remarks>
+		</responsible-party>
+		<responsible-party role-id="responsible-party-3">
+			<party-uuid>55531bff-a879-4665-9237-4f393ded9b1f</party-uuid>
+			<remarks>
+				<p>We are here to go</p>
+			</remarks>
+		</responsible-party>
+		<responsible-party role-id="responsible-party-4">
+			<party-uuid>a17478e2-29df-48fc-a421-9b156e5c6aac</party-uuid>
+			<remarks>
+				<p>You are alone, work very hard</p>
+			</remarks>
+		</responsible-party>
+	</metadata>
+	<import-ssp href="www.nist.gov">
+		<remarks>
+			<p></p>
+		</remarks>
+	</import-ssp>
+	<objectives>
+		<description>
+			<p></p>
+		</description>
+		<prop name="prop" id="prop--0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+		<prop name="prop" id="prop--1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+		<prop name="prop" id="prop--2" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+		<annotation name="annotation" id="ann--1" ns="https://fedramp.gov/ns/oscal" value="Fix stuff ">
+			<remarks>
+				<p></p>
+			</remarks>
+		</annotation>
+		<annotation name="annotation" id="ann--0" ns="https://fedramp.gov/ns/oscal" value="Fix stuff ">
+			<remarks>
+				<p></p>
+			</remarks>
+		</annotation>
+		<controls>
+			<description>
+				<p></p>
+			</description>
+			<prop name="prop" id="prop--0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<prop name="prop" id="prop--1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<annotation name="ann" id="ann--0" ns="fedramp" value="Fix stuff for the boss when on">
+				<remarks>
+					<p></p>
+				</remarks>
+			</annotation>
+			<all></all>
+			<include-control control-id="ac-2" />
+			<include-control control-id="ac-2.1" />
+			<include-control control-id="ac-2.2" />
+			<include-control control-id="ac-2.3" />
+			<include-control control-id="ac-6.2" />
+			<include-control control-id="ac-6.5" />
+			<exclude-control control-id="ac-3" />
+			<exclude-control control-id="ac-4" />
+			<exclude-control control-id="ac-5" />
+		</controls>
+		<control-objectives>
+			<description>
+				<p></p>
+			</description>
+			<prop name="prop" id="prop--0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<prop name="prop" id="prop--1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+			<annotation name="annotation" id="ann--0" ns="https://fedramp.gov/ns/oscal" value="Fix stuff">
+				<remarks>
+					<p></p>
+				</remarks>
+			</annotation>
+			<all></all>
+			<include-objective objective-id="include-objective"></include-objective>
+			<include-objective objective-id=" ir-4"></include-objective>
+			<include-objective objective-id=" ac-8req."></include-objective>
+			<exclude-objective objective-id=" ac-6.9"></exclude-objective>
+			<exclude-objective objective-id=" ac-6"></exclude-objective>
+			<exclude-objective objective-id=" at-2"></exclude-objective>
+			<exclude-objective objective-id=" ca-6"></exclude-objective>
+		</control-objectives>
+	</objectives>
+	<assessment-subjects>
+		<include-subject name="Component" class="Nist">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</include-subject>
+		<include-subject name="Elements" class="Nist">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</include-subject>
+		<include-subject name="Spyware" class="Fedramp">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</include-subject>
+		<include-subject name="Servers" class="Nist">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</include-subject>
+		<exclude-subject name="Logic" class="Nist">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</exclude-subject>
+		<exclude-subject name="Softwares" class="Nist">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</exclude-subject>
+		<exclude-subject name="Component" class="Fedramp">
+			<description>
+				<p></p>
+			</description>
+			<all></all>
+			<remarks>
+				<p></p>
+			</remarks>
+		</exclude-subject>
+		<local-definitions>
+			<component uuid="6eef84bb-f0f7-476e-9d4b-24a720f335f6" component-type="Servers">
+				<title></title>
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-component-2-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<prop name="prop" id="prop-component-2-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<link href="www.yahoo.com" rel="on" media-type="video"></link>
+				<status state="under-development">
+					<remarks>
+						<p></p>
+					</remarks>
+				</status>
+				<responsible-role role-id="responsible-party-1">
+					<party-uuid></party-uuid>
+					<remarks>
+						<p></p>
+					</remarks>
+				</responsible-role>
+				<remarks>
+					<p></p>
+				</remarks>
+			</component>
+			<component uuid="c898118a-c4aa-4c69-9d05-ba521bc25cd2" component-type="Computers">
+				<title></title>
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-Computers-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<prop name="prop" id="prop-Computers-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="annotation" id="ann-Computers-0" ns="https://fedramp.gov/ns/oscal" value="bad">
+					<remarks>
+						<p></p>
+					</remarks>
+				</annotation>
+				<link href="www.yahoo.com" rel="wed" media-type=""></link>
+				<status state="operational">
+					<remarks>
+						<p></p>
+					</remarks>
+				</status>
+				<responsible-role role-id="responsible-party-1">
+					<party-uuid></party-uuid>
+					<remarks>
+						<p></p>
+					</remarks>
+				</responsible-role>
+				<remarks>
+					<p></p>
+				</remarks>
+			</component>
+			<component uuid="9f057591-5006-483c-beec-d6659cdb9d38" component-type="ISSO Servers ">
+				<title></title>
+				<description>
+					<p></p>
+				</description>
+				<status state="under-major-modification">
+					<remarks>
+						<p></p>
+					</remarks>
+				</status>
+				<responsible-role role-id="responsible-party-2">
+					<party-uuid></party-uuid>
+					<remarks>
+						<p></p>
+					</remarks>
+				</responsible-role>
+				<remarks>
+					<p></p>
+				</remarks>
+			</component>
+			<component uuid="468903ee-c34e-4137-a5a1-4d5c693aff2d" component-type="Software">
+				<title></title>
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-component-0-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<prop name="prop" id="prop-component-0-1" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="ann" id="ann-component-0-0" ns="https://fedramp.gov/ns/oscal" value="Fix stuff">
+					<remarks>
+						<p></p>
+					</remarks>
+				</annotation>
+				<link href="www.yahoo.com" rel="video" media-type=""></link>
+				<status state="under-development">
+					<remarks>
+						<p></p>
+					</remarks>
+				</status>
+				<remarks>
+					<p />
+				</remarks>
+			</component>
+			<inventory-item uuid="ec20a750-d630-4248-a087-6740ee87f0f4" asset-id="Software">
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-inventoryItem-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<responsible-party role-id="responsible-party-1">
+					<party-uuid></party-uuid>
+					<remarks>
+						<p></p>
+					</remarks>
+				</responsible-party>
+				<implemented-component component-id="bcb4c996-0e41-4420-82fb-31e4edfbe03c" use="Software for Dance">
+					<annotation name="ann" id="ann-implementedcomponent-3-0" ns="fedramp" value="Fix stuff">
+						<remarks>
+							<p></p>
+						</remarks>
+					</annotation>
+					<link href="www.yahoo.com" rel="video" media-type="good"></link>
+					<link href="first Property" rel="on" media-type="video"></link>
+					<responsible-party role-id="responsible-party-1">
+						<party-uuid></party-uuid>
+						<remarks>
+							<p></p>
+						</remarks>
+					</responsible-party>
+					<remarks>
+						<p></p>
+					</remarks>
+				</implemented-component>
+			</inventory-item>
+			<inventory-item uuid="4e795261-ced3-4702-9bd6-77bea852d36b" asset-id="Developers">
+				<description>
+					<p></p>
+				</description>
+			</inventory-item>
+			<inventory-item uuid="bf67841c-0b0c-46d5-bb25-ad50db5c00a6" asset-id="Developers with Experience">
+				<description>
+					<p></p>
+				</description>
+				<responsible-party role-id="responsible-party-2">
+					<party-uuid></party-uuid>
+					<remarks>
+						<p></p>
+					</remarks>
+				</responsible-party>
+				<implemented-component component-id="bcb4c996-0e41-4420-82fb-31e4edfbe03c" use="Software for Dance">
+					<annotation name="ann" id="ann-implementedcomponent-3-0" ns="fedramp" value="Fix stuff">
+						<remarks>
+							<p></p>
+						</remarks>
+					</annotation>
+					<link href="www.yahoo.com" rel="video" media-type="good"></link>
+					<link href="first Property" rel="on" media-type="video"></link>
+					<responsible-party role-id="responsible-party-1">
+						<party-uuid></party-uuid>
+						<remarks>
+							<p></p>
+						</remarks>
+					</responsible-party>
+					<remarks>
+						<p></p>
+					</remarks>
+				</implemented-component>
+			</inventory-item>
+			<inventory-item uuid="496d8a87-b490-461e-94f1-df5b0f5427f9" asset-id="Computers">
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-inventoryItem-0-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="ann" id="ann-inventoryItem-0-0" ns="fedramp-south" value="Working fine">
+					<remarks>
+						<p></p>
+					</remarks>
+				</annotation>
+				<link href="www.nist.gov" rel="on" media-type="video"></link>
+				<responsible-party role-id="responsible-party-1">
+					<party-uuid></party-uuid>
+					<remarks>
+						<p></p>
+					</remarks>
+				</responsible-party>
+				<implemented-component component-id="6eee3f9f-9b41-4b88-80d2-c12ed6e80f64" use="Spywarw">
+					<prop name="prop" id="prop-implementedcomponent-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+					<annotation name="ann" id="ann-implementedcomponent-1-0" ns="fedramp" value="Fix stuff">
+						<remarks>
+							<p></p>
+						</remarks>
+					</annotation>
+					<link href="www.nist.gov" rel="on" media-type="video"></link>
+					<link href="www.fedramp.com" rel="on" media-type="video"></link>
+					<responsible-party role-id="responsible-party-2">
+						<party-uuid></party-uuid>
+						<remarks>
+							<p></p>
+						</remarks>
+					</responsible-party>
+					<remarks>
+						<p></p>
+					</remarks>
+				</implemented-component>
+			</inventory-item>
+			<user uuid="fa1c4a25-2b96-4b58-8716-41531ec102f6">
+				<title></title>
+				<short-name></short-name>
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-user-2-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<annotation name="ann" id="ann-user-2-0" ns="fedramp" value="Fix stuff for the boss">
+					<remarks>
+						<p></p>
+					</remarks>
+				</annotation>
+				<role-id></role-id>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<remarks>
+					<p />
+				</remarks>
+			</user>
+			<user uuid="5c05313b-c6a8-4223-8d6b-bb73fb546fe1">
+				<title></title>
+				<short-name></short-name>
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-user-0-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<role-id></role-id>
+				<role-id></role-id>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<remarks>
+					<p></p>
+				</remarks>
+			</user>
+			<user uuid="b97a6159-d3b4-4e18-8f6b-d1ada7c3f51c">
+				<title></title>
+				<short-name></short-name>
+				<description>
+					<p></p>
+				</description>
+				<prop name="prop" id="prop-user-1-0" ns="https://fedramp.gov/ns/oscal" class="main"></prop>
+				<role-id></role-id>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<authorized-privilege>
+					<title></title>
+					<description>
+						<p></p>
+					</description>
+					<function-performed></function-performed>
+				</authorized-privilege>
+				<remarks>
+					<p></p>
+				</remarks>
+			</user>
+			<remarks>
+				<p></p>
+			</remarks>
+		</local-definitions>
+	</assessment-subjects>
+	<assets>
+		<tools>
+			<component uuid="535d641b-5d46-4dbe-baf7-02605fefd7f9" component-type="Software">
+				<title></title>
+				<description>
+					<p></p>
+				</description>
+				<status state="operational">
+					<remarks>
+						<p></p>
+					</remarks>
+				</status>
+				<remarks>
+					<p></p>
+				</remarks>
+			</component>
+			<component uuid="a0ab7cc3-80ae-4c86-a492-56a190343800" component-type="Software">
+				<title></title>
+				<description>
+					<p></p>
+				</description>
+				<status state="operational">
+					<remarks>
+						<p></p>
+					</remarks>
+				</status>
+				<remarks>
+					<p />
+				</remarks>
+			</component>
+		</tools>
+		<origination>
+			<title></title>
+			<description>
+				<p></p>
+			</description>
+		</origination>
+	</assets>
+	<back-matter />
+</assessment-plan>
