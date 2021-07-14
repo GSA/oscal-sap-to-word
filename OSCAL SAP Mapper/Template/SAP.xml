@@ -1,0 +1,569 @@
+<assessment-plan id="NCName"> [1]
+
+- <metadata> [1]
+
+<title></title> [1]
+
+<published></published> [0 or 1]
+
+<last-modified></last-modified> [1]
+
+<version></version> [1]
+
+<oscal-version></oscal-version> [1]
+
+- <revision-history> [0 or 1]
+
+- <revision> [1 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+<published>dateTime-with-timezone</published> [0 or 1]
+
+<last-modified>dateTime-with-timezone</last-modified> [0 or 1]
+
+<version>string</version> [0 or 1]
+
+<oscal-version>string</oscal-version> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</revision>
+
+</revision-history>
+
+<doc-id type="string">string</doc-id> [0 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+- <role id="NCName"> [0 to ∞]
+
+<title>markup-line</title> [1]
+
+<short-name>string</short-name> [0 or 1]
+
+<desc>string</desc> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+- <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</role>
+
+- <location id="NCName"> [0 to ∞]
+
+- <address type="string"> [1]
+
+<addr-line>string</addr-line> [0 to ∞]
+
+<city>string</city> [0 or 1]
+
+<state>string</state> [0 or 1]
+
+<postal-code>string</postal-code> [0 or 1]
+
+<country>string</country> [0 or 1]
+
+</address>
+
+<email>email</email> [0 to ∞]
+
+<phone type="string">string</phone> [0 to ∞]
+
+<url>uri</url> [0 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</location>
+
+- <party id="NCName"> [0 to ∞]
+
+- <person> [0 to ∞]
+
+<person-name>string</person-name> [0 or 1]
+
+<short-name>string</short-name> [0 or 1]
+
+<org-name>string</org-name> [0 or 1]
+
+<person-id type="string">string</person-id> [0 to ∞]
+
+<org-id type="string">string</org-id> [0 to ∞]
+
++ <address type="string"> [0 to ∞] … </address>
+
+<location-id>NCName</location-id> [0 to ∞]
+
+<email>email</email> [0 to ∞]
+
+<phone type="string">string</phone> [0 to ∞]
+
+<url>uri</url> [0 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</person>
+
+- <org> [0 or 1]
+
+<org-name>string</org-name> [1]
+
+<short-name>string</short-name> [0 or 1]
+
+<org-id type="string">string</org-id> [0 to ∞]
+
++ <address type="string"> [0 to ∞] … </address>
+
+<location-id>NCName</location-id> [0 to ∞]
+
+<email>email</email> [0 to ∞]
+
+<phone type="string">string</phone> [0 to ∞]
+
+<url>uri</url> [0 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</org>
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</party>
+
+- <responsible-party role-id="NCName"> [0 to ∞]
+
+<party-id>NCName</party-id> [1 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</responsible-party>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</metadata>
+
+- <import-ssp href="uri-reference"> [1]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</import-ssp>
+
+- <objectives> [1]
+
+<description>Markup multiline</description> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+- <controls> [1 to ∞]
+
+<description>Markup multiline</description> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<all>string</all> [0 or 1]
+
+<include-control control-id="NCName">string</include-control> [0 to ∞]
+
+<exclude-control control-id="NCName">string</exclude-control> [0 to ∞]
+
+</controls>
+
+- <control-objectives> [0 to ∞]
+
+<description>Markup multiline</description> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<all>string</all> [0 or 1]
+
+<include-objective objective-id="NCName">string</include-objective> [0 to ∞]
+
+<exclude-objective objective-id="NCName">string</exclude-objective> [0 to ∞]
+
+- <objective id="NCName"> [0 to ∞]
+
+<description>Markup multiline</description> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<control-link control-id="NCName">string</control-link> [1]
+
+- <part id="NCName" name="NCName" ns="string" class="NCName"> [1]
+
+<title>markup-line</title> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+Markup multiline
+
+<part/> [0 to ∞]
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+</part>
+
+</objective>
+
+</control-objectives>
+
++ <objective id="NCName"> [0 or 1] … </objective>
+
+</objectives>
+
+- <assessment-subject> [0 or 1]
+
+- <include-subject name="NCName" class="NCName"> [1 to ∞]
+
+<description>Markup multiline</description> [1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<all>string</all> [0 or 1]
+
+<id-ref id="NCName" type="string">string</id-ref> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</include-subject>
+
+- <exclude-subject name="NCName" class="NCName"> [0 to ∞]
+
+<description>Markup multiline</description> [1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<all>string</all> [0 or 1]
+
+<id-ref id="NCName" type="string">string</id-ref> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</exclude-subject>
+
+- <local-definitions> [0 or 1]
+
+- <component id="NCName" component-type="string"> [0 to ∞]
+
+<title>markup-line</title> [1]
+
+<description>Markup multiline</description> [1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+- <status state="string"> [1]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</status>
+
+- <responsible-role role-id="NCName"> [0 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<party-id>NCName</party-id> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</responsible-role>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</component>
+
+- <inventory-item id="NCName" asset-id="string"> [0 to ∞]
+
+<description>Markup multiline</description> [1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
++ <responsible-party role-id="NCName"> [0 to ∞] … </responsible-party>
+
+- <implemented-component component-id="NCName" use="string"> [0 to ∞]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
++ <responsible-party role-id="NCName"> [0 to ∞] … </responsible-party>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</implemented-component>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</inventory-item>
+
+- <user id="NCName"> [0 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+<short-name>string</short-name> [0 or 1]
+
+<description>Markup multiline</description> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+<role-id>NCName</role-id> [1 to ∞]
+
+- <authorized-privilege> [0 to ∞]
+
+<title>markup-line</title> [1]
+
+<description>Markup multiline</description> [0 or 1]
+
+<function-performed>string</function-performed> [1 to ∞]
+
+</authorized-privilege>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</user>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</local-definitions>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</assessment-subject>
+
+- <assets> [0 or 1]
+
+- <tools> [0 or 1]
+
++ <component id="NCName" component-type="string"> [0 to ∞] … </component>
+
+</tools>
+
+- <origination> [0 or 1]
+
+<title>markup-line</title> [1]
+
+Markup multiline
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+</origination>
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+</assets>
+
+- <assessment-activities> [0 or 1]
+
+- <test-method id="NCName"> [0 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+Markup multiline
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<link href="uri-reference" rel="string" media-type="string">markup-line</link> [0 to ∞]
+
+- <test-step id="NCName"> [0 to ∞]
+
+<sequence>integer</sequence> [0 or 1]
+
+Markup multiline
+
+<role-id>NCName</role-id> [0 to ∞]
+
+<party-id>NCName</party-id> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</test-step>
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</test-method>
+
+- <schedule id="NCName"> [0 or 1]
+
+- <task> [1 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+Markup multiline
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<start>dateTime-with-timezone</start> [0 or 1]
+
+<end>dateTime-with-timezone</end> [0 or 1]
+
+<activitiy-id>NCName</activitiy-id> [0 to ∞]
+
+<role-id>NCName</role-id> [0 to ∞]
+
+<party-id>NCName</party-id> [0 to ∞]
+
+<location-id>NCName</location-id> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</task>
+
+</schedule>
+
+- <included-activity id="NCName"> [0 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+Markup multiline
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<role-id>NCName</role-id> [0 to ∞]
+
+<party-id>NCName</party-id> [0 to ∞]
+
+<location-id>NCName</location-id> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</included-activity>
+
+- <excluded-activity id="NCName"> [0 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+Markup multiline
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
++ <annotation name="NCName" id="NCName" ns="string" value="string"> [0 to ∞] … </annotation>
+
+<role-id>NCName</role-id> [0 to ∞]
+
+<party-id>NCName</party-id> [0 to ∞]
+
+<location-id>NCName</location-id> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</excluded-activity>
+
+</assessment-activities>
+
+- <back-matter> [0 or 1]
+
+- <resource id="NCName"> [0 to ∞]
+
+<title>markup-line</title> [0 or 1]
+
+<desc>string</desc> [0 or 1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+<doc-id type="string">string</doc-id> [0 to ∞]
+
+- <citation> [0 or 1]
+
+<text>markup-line</text> [1]
+
+<prop name="NCName" id="NCName" ns="string" class="NCName">string</prop> [0 to ∞]
+
+<biblio/> [0 or 1]
+
+</citation>
+
+- <rlink href="uri-reference" media-type="string"> [0 to ∞]
+
+<hash algorithm="string">string</hash> [0 to ∞]
+
+</rlink>
+
+<base64 filename="uri-reference" media-type="string">base64Binary</base64> [0 to ∞]
+
+<remarks>Markup multiline</remarks> [0 or 1]
+
+</resource>
+
+</back-matter>
+
+</assessment-plan>
